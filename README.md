@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[<img src="https://img.shields.io/badge/-Newsletter-15171A?style=for-the-badge&logo=ghost&logoColor=white">](https://www.osc.ac/about/)
+
 <!--
 **simardcasanova/simardcasanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
