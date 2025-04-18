@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-[<img src="https://img.shields.io/badge/-Newsletter-15171A?style=for-the-badge&logo=ghost&logoColor=white">](https://www.osc.ac/about/)
-[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/simardcasanova)
-[<img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/oscdotac)
-[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/simardcasanova)
-[<img src="https://img.shields.io/badge/-Mastodon-0A66C2?style=for-the-badge&logo=mastodon&logoColor=white">](https://econtwitter.net/@osc)
-[<img src="https://img.shields.io/badge/-Bluesky-0A66C2?style=for-the-badge&logo=bluesky&logoColor=white">](https://bsky.app/profile/en.osc.ac)
+[<img src="https://img.shields.io/badge/-Newsletter-15171A?style=for-the-badge&logo=ghost&logoColor=white">](https://o.simardcasanova.net/the-note/)
+[<img src="https://img.shields.io/badge/-Bluesky-0A66C2?style=for-the-badge&logo=bluesky&logoColor=white">](https://bsky.app/profile/o.simardcasanova.net)
 
 <!--
 **simardcasanova/simardcasanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
