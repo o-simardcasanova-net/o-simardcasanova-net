@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [<img src="https://img.shields.io/badge/-Newsletter-15171A?style=for-the-badge&logo=ghost&logoColor=white">](https://o.simardcasanova.net/the-note/)
-[<img src="https://img.shields.io/badge/-Bluesky-0A66C2?style=for-the-badge&logo=bluesky&logoColor=white">](https://bsky.app/profile/o.simardcasanova.net)
+[<img src="https://img.shields.io/badge/-Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white">](https://bsky.app/profile/o.simardcasanova.net)
 
 <!--
 **simardcasanova/simardcasanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
