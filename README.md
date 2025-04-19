@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [<img src="https://img.shields.io/badge/-Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white">](https://bsky.app/profile/o.simardcasanova.net)
 [<img src="https://img.shields.io/badge/-Newsletter-15171A?style=for-the-badge&logo=ghost&logoColor=white">](https://o.simardcasanova.net/the-note/)
 
